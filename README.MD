@@ -71,7 +71,4 @@ https://github.com/severo-bernardo04/custom-match-bot
 ---
 
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=severo-bernardo04&show_icons=true&theme=aura_dark&hide_border=true&count_private=true" height="165" alt="github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=severo-bernardo04&theme=aura_dark&hide_border=true&layout=compact" height="165" alt="most used languages" />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=severobernardo04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="165" alt="github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=severobernardo04&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117" height="165" alt="most used languages" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=severobernardo04&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="github streak" /> <br /> <img src="https://github-profile-trophy.vercel.app/?username=severobernardo04&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8&row=1" alt="github trophies" /> <br /> <a href="https://github.com/severobernardo04"> <img src="https://img.shields.io/badge/GitHub-severobernardo04-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /> </a> </div>
