@@ -61,7 +61,7 @@ I Chose **Java / Spring** as my main stack because it's the area I identified wi
 **MoneyWise**: A finance management API built from scratch: JWT Authentication, PostgreSQL, running in Docker, and Swagger Documentation. The project that best represents how I currently work.
 https://github.com/severo-bernardo04/MoneyWise
 
-**Event Creator**: Event management plataform built with a group: Next.js/Typescript front-end, Spring Boot back-end, with realtime notifications and QR code check-in
+**Event Creator**: Event management plataform built with a group: Next.js/Typescript front-end, Spring Boot back-end, with realtime notifications and QR code check-in  
 https://github.com/severo-bernardo04/MoneyWise - Front-End
 https://github.com/phguerrra/EventHubAPI - Back-End
 
