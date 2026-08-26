@@ -21,3 +21,13 @@ I Chose **Java / Spring** as my main stack because it's the area I identified wi
 
 ---
 
+### Current Status
+| | |
+|---|---|
+| Work | IT Intern |
+| Education | Computer Science, URI, Santiago/RS (6th semester) |
+| Goal | Junior back-end developer role |
+| Currently studying | Spring Security, testing with JUnit/Mockito, database modeling |
+| Certifications on the radar | OCP Java SE, Spring Certified Professional, AWS |
+
+---
