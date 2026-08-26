@@ -69,3 +69,9 @@ https://github.com/phguerrra/EventHubAPI - Back-End
 https://github.com/severo-bernardo04/custom-match-bot
 
 ---
+
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=severo-bernardo04&show_icons=true&theme=aura_dark&hide_border=true&count_private=true" height="165" alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=severo-bernardo04&theme=aura_dark&hide_border=true&layout=compact" height="165" alt="most used languages" />
+</div>
