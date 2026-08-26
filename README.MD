@@ -62,7 +62,7 @@ I Chose **Java / Spring** as my main stack because it's the area I identified wi
 https://github.com/severo-bernardo04/MoneyWise
 
 **Event Creator**: Event management plataform built with a group: Next.js/Typescript front-end, Spring Boot back-end, with realtime notifications and QR code check-in  
-https://github.com/severo-bernardo04/MoneyWise - Front-End
+https://github.com/severo-bernardo04/MoneyWise - Front-End  
 https://github.com/phguerrra/EventHubAPI - Back-End
 
 **Custom match Bot**: Bot for organizing custom Online Games matches such as League of Legends and Valorant, with slash commands and automatic team balancing. Built in node.js as a part of learning a secondary stack.
